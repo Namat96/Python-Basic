@@ -1,0 +1,5 @@
+print("Hello World")
+print("I am Namat Ullah. I am Learning Python")
+print("My age is 21.")
+print("45")
+print(4 + 5) 
